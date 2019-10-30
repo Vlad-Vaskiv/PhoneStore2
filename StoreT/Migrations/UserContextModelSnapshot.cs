@@ -277,6 +277,8 @@ namespace StoreT.Migrations
                     b.Property<string>("UserName")
                         .HasMaxLength(256);
 
+                    b.Property<string>("UserStatus");
+
                     b.HasKey("Id");
 
                     b.HasIndex("NormalizedEmail")

@@ -14,7 +14,8 @@ namespace StoreT.Controllers
         [Authorize]
         public IActionResult Index()
         {
-            return Content(User.Identity.Name);
+            return View();
+
         }
 
         public IActionResult About()

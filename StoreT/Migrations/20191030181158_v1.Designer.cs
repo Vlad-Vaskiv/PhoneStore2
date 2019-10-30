@@ -10,7 +10,7 @@ using StoreT.Models;
 namespace StoreT.Migrations
 {
     [DbContext(typeof(UserContext))]
-    [Migration("20191028151009_v1")]
+    [Migration("20191030181158_v1")]
     partial class v1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -278,6 +278,8 @@ namespace StoreT.Migrations
 
                     b.Property<string>("UserName")
                         .HasMaxLength(256);
+
+                    b.Property<string>("UserStatus");
 
                     b.HasKey("Id");
 

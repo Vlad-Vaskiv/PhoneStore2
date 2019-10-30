@@ -68,3 +68,6 @@ C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\StoreT
 C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\StoreT.Views.pdb
 C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\StoreT.csproj.CopyComplete
 C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\офісне\StoreT\StoreT\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs

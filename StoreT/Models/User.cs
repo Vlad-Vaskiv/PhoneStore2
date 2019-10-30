@@ -14,6 +14,8 @@ namespace StoreT.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public bool Type { get; set; }
+        public string UserStatus { get; set; }
+        // public int Year { get; set; }
 
         public virtual ImageUser ImageUser { get; set; }
         public virtual UserCabinet UserCabinet { get; set; }
